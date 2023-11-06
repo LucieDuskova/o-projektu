@@ -6,7 +6,7 @@ export const Header = () => {
       <div>
         <h1>Patchwork</h1>
         <nav>
-          <a href="../HomePage/index.html">Domů</a>
+          <a href="/index.html">Domů</a>
           <a href="../../pages/LindaPage/index.html">Linda Hrdinová</a>
           <a href="../../pages/LuckaPage/index.html">Lucie Dušková</a>
         </nav>

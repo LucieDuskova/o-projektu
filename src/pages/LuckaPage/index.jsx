@@ -5,9 +5,9 @@ import { Lucka } from '../../components/Lucka';
 import './style.css';
 
 createRoot(document.querySelector('#app')).render(
-  <>
+  <div className="container">
     <Header />
     <Lucka />
     <Footer />
-  </>,
+  </div>,
 );

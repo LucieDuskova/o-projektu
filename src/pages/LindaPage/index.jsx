@@ -5,9 +5,9 @@ import { Linda } from '../../components/Linda';
 import './style.css';
 
 createRoot(document.querySelector('#app')).render(
-  <>
+  <div className="container">
     <Header />
     <Linda />
     <Footer />
-  </>,
+  </div>,
 );

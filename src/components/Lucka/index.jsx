@@ -1,10 +1,12 @@
 import './style.css';
+import '../../../src/global.css';
 
 export const Lucka = () => {
   return (
     <main>
       <img
-        src="../components/Lucka/img/Lucie_Duskova.jpeg"
+        className="menteesImg"
+        src="../../components/Lucka/img/Lucie_Duskova.jpeg"
         alt="Lucie Dušková"
       />
 
