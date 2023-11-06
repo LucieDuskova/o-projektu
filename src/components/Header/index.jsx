@@ -1,5 +1,4 @@
 import './style.css';
-import '../Linda/index.jsx';
 
 export const Header = () => {
   return (
@@ -7,9 +6,9 @@ export const Header = () => {
       <div>
         <h1>Patchwork</h1>
         <nav>
-          <a href="./index.html">Domů</a>
-          <a href="../../components/Linda/index.html">Linda Hrdinová</a>
-          <a href="../../components/Lucka/index.html">Lucie Dušková</a>
+          <a href="../HomePage/index.html">Domů</a>
+          <a href="../../pages/LindaPage/index.html">Linda Hrdinová</a>
+          <a href="../../pages/LuckaPage/index.html">Lucie Dušková</a>
         </nav>
       </div>
     </header>
