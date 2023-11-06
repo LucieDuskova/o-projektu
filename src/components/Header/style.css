@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Your+Decorative+Font&display=swap');
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Your Decorative Font', cursive;
+  background-color: #624e4e;
+  color: #fff;
+  padding: 1rem;
+}
+
+h1 {
+  font-size: 5rem;
+  margin: 1.5rem;
+}
+
+nav {
+  display: flex;
+  justify-content: center; 
+  margin-top: 1rem;
+}
+
+nav a {
+  text-decoration: none;
+  color: #ffcc00;
+  margin-right: 2rem;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
