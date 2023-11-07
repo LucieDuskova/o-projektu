@@ -5,6 +5,7 @@ export const Projekt = () => {
     <main>
       <div className="main__div1">
         <img
+          className="projectImg"
           src="./components/Projekt/img/Patchwork.png"
           alt="herní plán Patchwork"
         />
