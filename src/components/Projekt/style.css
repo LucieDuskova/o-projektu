@@ -6,7 +6,16 @@ main {
   font-family: 'Lato', sans-serif;
   padding: 1rem;
   display: flex;
+  flex-direction: column;
+}
+
+.main__div1 {
+  display: flex;
   align-items: center;
+}
+
+.main__div2 {
+  padding: 0;
 }
 
 img {
@@ -14,7 +23,9 @@ img {
   height: auto;
 }
 
-h2 {
+h2,
+h3,
+h4 {
   padding-left: 1rem;
 }
 

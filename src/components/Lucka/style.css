@@ -8,16 +8,19 @@ main {
   align-items: center;
 }
 
-img {
-  width: 40%;
-  height: auto;
-}
 
 h2 {
   padding: 1rem;
 }
 
+
 p {
   flex: 1;
   margin-left: 1rem;
+}
+
+
+.menteesImg {
+  border-radius: 50%;
+  max-width: 350px;
 }

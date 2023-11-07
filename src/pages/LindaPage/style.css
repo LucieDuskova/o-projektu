@@ -8,10 +8,6 @@ main {
   align-items: center;
 }
 
-img {
-  width: 40%;
-  height: auto;
-}
 
 p {
   flex: 1;
