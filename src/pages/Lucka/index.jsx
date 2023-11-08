@@ -6,15 +6,13 @@ export const Lucka = () => {
     <main>
       <img
         className="menteesImg"
-        src="../../components/Lucka/img/Lucie_Duskova.jpeg"
+        src="../../pages/Lucka/img/Lucie_Duskova.jpeg"
         alt="Lucie Dušková"
       />
 
       <div>
         <h2>Lucie Dušková</h2>
-        <p>Jmenuje se Lucka a jsem hrdá máma 3 malých dětí.❤️❤️❤️
-
-        </p>
+        <p>Jmenuje se Lucka a jsem hrdá máma 3 malých dětí.❤️❤️❤️</p>
         <p>
           Před mateřskou dovolenou jsem byla pohodlná a spokojená v práci, kde
           jsem si oddělala své a šla domů. Nyní vím, že život dává možnost mít
